@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "conversation-search-marketplace",
+  "description": "Marketplace for the CS (Conversation Search) plugin",
+  "owner": {
+    "name": "Ahmed",
+    "url": "https://github.com/ahmed"
+  },
+  "plugins": [
+    {
+      "name": "cs",
+      "description": "Navigate and search Claude Code conversation history with teleportation anchors. Find past conversations, jump to conversation start, recover compacted content, and place searchable markers.",
+      "version": "2.0.0",
+      "author": {
+        "name": "Ahmed"
+      },
+      "source": ".",
+      "category": "utilities",
+      "tags": ["search", "history", "navigation", "conversation", "teleportation"]
+    }
+  ]
+}

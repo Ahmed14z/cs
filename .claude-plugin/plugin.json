@@ -1,0 +1,8 @@
+{
+  "name": "cs",
+  "description": "Conversation Search - Navigate and search Claude Code chat history with teleportation anchors",
+  "version": "2.0.0",
+  "author": {
+    "name": "Claude Code Community"
+  }
+}
